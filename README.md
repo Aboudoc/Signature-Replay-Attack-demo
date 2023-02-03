@@ -134,7 +134,7 @@ Owner of `SignatureReplay` will sign a signature to approve your contract to `wi
 
 There are 2 ETH in SignatureReplay contract. Drain all ETH from it.
 
-### Signature Replay Attack
+## Signature Replay Attack
 
 Sometimes in smart contracts it is necessary to perform signature verification to improve usability and gas cost. However, consideration needs to be taken when implementing signature verification. To protect against Signature Replay Attacks, the contract should only be allowing new hashes to be processed. This prevents malicious users from replaying another users signature multiple times.
 
