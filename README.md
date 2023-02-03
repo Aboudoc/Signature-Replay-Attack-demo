@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Aboudoc/Reentrancy-demo">
+  <a href="https://github.com/Aboudoc/Signature-Replay-Attack-demo.git">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -60,7 +60,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://docs.openzeppelin.com/)
+[![Product Name Screen Shot][product-screenshot]](https://ethereum.org/en/developers/docs/smart-contracts/security/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +109,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/Aboudoc/Reentrancy-demo.git
+    git clone https://github.com/Aboudoc/Signature-Replay-Attack-demo.git.git
     ```
 2. Install NPM packages
     ```sh
@@ -171,7 +171,7 @@ To avoid the problem of signature malleability, never use a signature in a signe
 
 -   [ ] deploy on goerli and test by signing off chain using metamask
 
-See the [open issues](https://github.com/Aboudoc/Reentrancy-demo/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Aboudoc/Signature-Replay-Attack-demo.git/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +206,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Reda Aboutika - [@twitter](https://twitter.com/AboutikaR) - reda.aboutika@gmail.com
 
-Project Link: [https://github.com/Aboudoc/Reentrancy-demo](https://github.com/Aboudoc/Reentrancy-demo)
+Project Link: [https://github.com/Aboudoc/Signature-Replay-Attack-demo.git](https://github.com/Aboudoc/Signature-Replay-Attack-demo.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -233,7 +233,7 @@ Project Link: [https://github.com/Aboudoc/Reentrancy-demo](https://github.com/Ab
 [license-url]: https://github.com/Aboudoc/Ethernaut-OpenZeppelin/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/r%C3%A9da-aboutika-34305453/?originalSubdomain=fr
-[product-screenshot]: https://i1.wp.com/blog.openzeppelin.com/wp-content/uploads/2019/05/Solidity-1.png?fit=1200%2C633&ssl=1
+[product-screenshot]: https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp
 [Hardhat]: https://img.shields.io/badge/Hardhat-20232A?style=for-the-badge&logo=hardhat&logoColor=61DAFB
 [Hardhat-url]: https://hardhat.org/
 [Ethers.js]: https://img.shields.io/badge/ethers.js-000000?style=for-the-badge&logo=ethersdotjs&logoColor=white
